@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.01.15 19:48:04.169,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.01.15 19:48:04.363,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2026.01.15 19:52:25.099,D:\Projects\Programming\CPP\BDS\Console\Algorithms\ArithmMeanValueOfArray\ArithmMeanValueOfArrayPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.01.15 19:52:25.118,D:\Projects\Programming\CPP\BDS\Console\Algorithms\ArithmMeanValueOfArray\File1.cpp=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2026.01.15 19:52:25.131,D:\Projects\Programming\CPP\BDS\Console\Algorithms\ArithmMeanValueOfArray\ArithmMeanValueOfArray.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2026.01.15 19:52:33.809,D:\Projects\Programming\CPP\BDS\Console\Algorithms\ArithmMeanValueOfArray\ArithmMeanValueOfArray.cpp=D:\Projects\Programming\CPP\BDS\Console\Algorithms\ArithmMeanValueOfArray\File1.cpp</Transaction>
+    <Transaction>2026.01.15 19:52:36.864,D:\Projects\Programming\CPP\BDS\Console\Algorithms\ArithmMeanValueOfArray\ArithmMeanValueOfArray.cbproj=D:\Projects\Programming\CPP\BDS\Console\Algorithms\ArithmMeanValueOfArray\ArithmMeanValueOfArray.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
