@@ -1,4 +1,4 @@
-A console application project written in C in the Embarcadero Rad Studio integrated development environment. Simple input/output. Working with arrays and random numbers. Calculating the arithmetic mean of array elements.
+A console application project written in C++ in the Embarcadero Rad Studio integrated development environment. Simple input/output. Working with arrays and random numbers. Calculating the arithmetic mean of array elements.
 
 The program does the following:
 1. Prompts the user for the number of elements in the array.
